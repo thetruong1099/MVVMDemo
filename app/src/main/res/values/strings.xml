@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+    <string name="name">name</string>
+    <string name="author">author</string>
+    <string name="add_book">add book</string>
+    <string name="edit_book">edit book</string>
+</resources>
